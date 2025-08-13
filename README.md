@@ -22,4 +22,6 @@ Remember that anonymity is absolutely crucial when navigating these spaces. Alwa
 
 <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/mockups/icon.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://ytbzy2nljonwcp76o4yyccmrv64ysbjejnwtnpumqcrlkoa7pmpomeqd.onion"><img src="/mockups/back.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  08/04/2025 Fixed broken anchor links in wiki pages
+
+
+Update:  08/13/2025 link is active
