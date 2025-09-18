@@ -28,4 +28,6 @@ Remember that anonymity is absolutely crucial when navigating these spaces. Alwa
 
 
 
-Update:  12.09.2025 url is now active and responsive
+
+
+Update:  18.09.2025 url is back online
